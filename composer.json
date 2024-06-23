@@ -1,5 +1,5 @@
 {
-    "name": "smallruraldog/amis-admin",
+    "name": "kfteam1991/amis-admin",
     "description": "amis admin",
     "license": "MIT",
     "authors": [
@@ -15,8 +15,8 @@
         "AmisAdmin"
     ],
     "require": {
-        "php": ">=8.0",
-        "illuminate/support": "~8|~9|~10"
+        "php": "^7.0|^8.0",
+        "illuminate/support": "~8|~9|~10|~11"
     },
     "autoload": {
         "psr-4": {
